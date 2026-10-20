@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zero-Technologies Sign-in - Privacy Policy
-last_updated: 2026-10-20
+last_updated: 2026-10-21
 ---
 
 This policy explains what data Zero-Technologies Sign-in ("the Service") collects, why, and what rights you have. The data controller is {{ site.controller }} ("we", "us"). Contact: [{{ site.contact_email }}](mailto:{{ site.contact_email }}).
@@ -14,7 +14,7 @@ This policy explains what data Zero-Technologies Sign-in ("the Service") collect
 |---|---|
 | Username, display name and email address | To create and recognise your account and contact you about it |
 | Password (stored only as a one-way hash), if you sign up with one | To let you sign in |
-| Groups and access permissions | To decide which services you can use |
+| Groups and access permissions, including your Patreon tier if you connect Patreon | To decide which services you can use |
 
 **If you sign in with a provider**, it shares the following with us, as shown on its approval screen:
 
@@ -23,8 +23,9 @@ This policy explains what data Zero-Technologies Sign-in ("the Service") collect
 | Discord | Discord user ID, username and email address |
 | Google | Google account ID, name and email address |
 | Microsoft | Microsoft account ID, display name, username and email address |
+| Patreon | Patreon user ID, name, username, email address, and your membership of our Patreon: whether you are an active patron and which tier |
 
-We store which provider account is connected to your account, and the access token the provider issues at sign-in. We do not ask providers for your contacts, files, servers or any other data, and we never receive your provider password.
+We store which provider account is connected to your account, and the access token the provider issues at sign-in. We use your Patreon membership only to give you the access that comes with your tier. We do not ask providers for your contacts, files, servers, other memberships or any other data, and we never receive your provider password.
 
 **Sign-in and security logs**: the time of each sign-in and account change, your IP address, your browser, and an approximate location (country) worked out from the IP address.
 
@@ -42,7 +43,7 @@ We process account data to provide the service you signed up for (UK GDPR Articl
 We do not sell your data or share it for advertising. It is processed by:
 
 - **Our own self-hosted servers in the United Kingdom**, where all account data and logs are stored.
-- **Discord, Google or Microsoft**, only if you choose to sign in with them ([Discord](https://discord.com/privacy), [Google](https://policies.google.com/privacy), [Microsoft](https://privacy.microsoft.com/privacystatement) privacy policies).
+- **Discord, Google, Microsoft or Patreon**, only if you choose to sign in with them ([Discord](https://discord.com/privacy), [Google](https://policies.google.com/privacy), [Microsoft](https://privacy.microsoft.com/privacystatement), [Patreon](https://privacy.patreon.com/policies) privacy policies).
 - **Google (Gmail)**, which delivers the emails we send you, such as sign-up confirmations.
 
 ## 5. Security

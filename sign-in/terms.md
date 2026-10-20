@@ -4,7 +4,7 @@ title: Zero-Technologies Sign-in - Terms of Service
 last_updated: 2026-10-20
 ---
 
-These terms apply to your use of Zero-Technologies Sign-in ("the Service"), operated by {{ site.controller }} ("we", "us"), to create an account and sign in to Zero-Technologies services, including when you sign in with Discord, Google or Microsoft. By creating an account or signing in, you agree to these terms.
+These terms apply to your use of Zero-Technologies Sign-in ("the Service"), operated by {{ site.controller }} ("we", "us"), to create an account and sign in to Zero-Technologies services, including when you sign in with Discord, Google, Microsoft or Patreon. By creating an account or signing in, you agree to these terms.
 
 ## 1. The service
 
