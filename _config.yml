@@ -1,0 +1,15 @@
+title: Zero-Technologies
+description: Documentation, terms and privacy policies for Zero-Technologies Discord apps.
+url: "https://docs.zero-technologies.co.uk"
+baseurl: ""
+
+# Shown in the footer and used in policies
+contact_email: "CHANGE-ME@zero-technologies.co.uk"
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

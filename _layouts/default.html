@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <nav>
+      <a href="{{ '/mr-freeze/' | relative_url }}">Mr. Freeze</a>
+      <a href="{{ '/authentik/' | relative_url }}">Authentik</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+    {% if page.last_updated %}<p class="meta">Last updated: {{ page.last_updated | date: "%-d %B %Y" }}</p>{% endif %}
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }} &middot; Contact: <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>
+    <p>Not affiliated with or endorsed by Discord Inc.</p>
+  </footer>
+</body>
+</html>
