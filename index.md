@@ -3,11 +3,11 @@ layout: default
 title: Documentation
 ---
 
-Documentation and policies for Discord apps run by the Zero-Technologies team.
+Terms and privacy policies for services run by Zero-Technologies.
 
-## Apps
+## Services
 
-| App | What it does | Policies |
+| Service | What it does | Policies |
 |---|---|---|
-| [Mr. Freeze](/mr-freeze/) | Sends you notifications about your requests | [Terms](/mr-freeze/terms/) &middot; [Privacy](/mr-freeze/privacy/) |
-| [Authentik](/authentik/) | Lets you sign in to Zero-Technologies services with Discord | [Terms](/authentik/terms/) &middot; [Privacy](/authentik/privacy/) |
+| [Zero-Technologies Sign-in](/sign-in/) | Lets you create an account and sign in to Zero-Technologies services, with a password or with Discord, Google or Microsoft | [Terms](/sign-in/terms/) &middot; [Privacy](/sign-in/privacy/) |
+| [Victor Fries](/victor-fries/) | A Discord bot that sends you notifications from Silo | [Terms](/victor-fries/terms/) &middot; [Privacy](/victor-fries/privacy/) |

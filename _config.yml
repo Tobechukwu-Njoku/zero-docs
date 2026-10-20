@@ -1,10 +1,11 @@
 title: Zero-Technologies
-description: Documentation, terms and privacy policies for Zero-Technologies Discord apps.
+description: Terms and privacy policies for Zero-Technologies sign-in and Discord apps.
 url: "https://docs.zero-technologies.co.uk"
 baseurl: ""
 
 # Shown in the footer and used in policies
-contact_email: "CHANGE-ME@zero-technologies.co.uk"
+contact_email: "homelab.sv0x@gmail.com"
+controller: "Tobechukwu Njoku, trading as Zero-Technologies"
 
 markdown: kramdown
 permalink: pretty

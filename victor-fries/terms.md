@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Mr. Freeze - Terms of Service
+title: Victor Fries - Terms of Service
 last_updated: 2026-10-20
 ---
 
-These terms apply to your use of the Mr. Freeze Discord bot ("the Bot"), operated by Zero-Technologies ("we", "us"). By using the Bot, you agree to these terms. If you do not agree, do not use the Bot.
+These terms apply to your use of the Victor Fries Discord bot ("the Bot"), operated by {{ site.controller }} ("we", "us"). By using the Bot, you agree to these terms. If you do not agree, do not use the Bot.
 
 ## 1. The service
 
-The Bot sends notifications about requests you make through services run by Zero-Technologies. It is provided free of charge, on an "as is" and "as available" basis.
+The Bot sends you notifications from Silo, the Zero-Technologies media server, that you turn on in your Silo settings. It is provided free of charge, on an "as is" and "as available" basis.
 
 ## 2. Eligibility
 
@@ -37,7 +37,7 @@ To the fullest extent allowed by law, we are not liable for any loss or damage a
 
 ## 7. Privacy
 
-How we handle your data is explained in the [Privacy Policy](/mr-freeze/privacy/).
+How we handle your data is explained in the [Privacy Policy](/victor-fries/privacy/).
 
 ## 8. Changes to these terms
 

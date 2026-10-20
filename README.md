@@ -1,12 +1,10 @@
 # Zero-Technologies Docs
 
-Public docs, terms and privacy policies for Zero-Technologies Discord apps. Built with Jekyll and served by GitHub Pages at https://docs.zero-technologies.co.uk.
+Public docs, terms and privacy policies for Zero-Technologies Sign-in and Discord apps. Built with Jekyll and served by GitHub Pages at https://docs.zero-technologies.co.uk.
 
 ## Before publishing
 
-1. Set `contact_email` in `_config.yml`.
-2. Search for `TODO` and fill in the retention periods and data tables.
-3. Check each privacy policy matches what the app actually stores.
+Check each privacy policy still matches what the service stores, and bump `last_updated`.
 
 ## Deploy
 
@@ -16,19 +14,19 @@ Public docs, terms and privacy policies for Zero-Technologies Discord apps. Buil
 
    | Type | Name | Value |
    |---|---|---|
-   | CNAME | `docs` | `<your-github-username>.github.io` |
+   | CNAME | `docs` | `tobechukwu-njoku.github.io` (Cloudflare: DNS only, grey cloud) |
 
 4. Back in **Settings > Pages**, confirm the custom domain and tick **Enforce HTTPS** once the certificate is issued.
 5. Optional: verify the domain under your GitHub account **Settings > Pages** to stop anyone else claiming it.
 
-## Discord Developer Portal URLs
+## URLs for provider settings
 
-| App | Terms of Service URL | Privacy Policy URL |
+| Where | Terms of Service URL | Privacy Policy URL |
 |---|---|---|
-| Mr. Freeze | `https://docs.zero-technologies.co.uk/mr-freeze/terms/` | `https://docs.zero-technologies.co.uk/mr-freeze/privacy/` |
-| Authentik | `https://docs.zero-technologies.co.uk/authentik/terms/` | `https://docs.zero-technologies.co.uk/authentik/privacy/` |
+| Discord app Victor Fries | `https://docs.zero-technologies.co.uk/victor-fries/terms/` | `https://docs.zero-technologies.co.uk/victor-fries/privacy/` |
+| Discord sign-in app, Google consent screen, Microsoft branding | `https://docs.zero-technologies.co.uk/sign-in/terms/` | `https://docs.zero-technologies.co.uk/sign-in/privacy/` |
 
-Set these under each app's **General Information** page.
+Google also needs the home page `https://docs.zero-technologies.co.uk/sign-in/` and the authorised domain `zero-technologies.co.uk`.
 
 ## Updating a policy
 
@@ -36,7 +34,7 @@ Edit the page, change `last_updated` in its front matter, and commit. Git histor
 
 ## Adding an app
 
-1. Copy the `mr-freeze` folder and rename it.
+1. Copy the `victor-fries` folder and rename it.
 2. Update the titles, links and content.
 3. Add the app to the table in `index.md` and the nav in `_layouts/default.html`.
 
