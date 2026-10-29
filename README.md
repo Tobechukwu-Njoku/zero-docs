@@ -25,6 +25,7 @@ Check each privacy policy still matches what the service stores, and bump `last_
 |---|---|---|
 | Discord app Victor Fries | `https://docs.zero-technologies.co.uk/victor-fries/terms/` | `https://docs.zero-technologies.co.uk/victor-fries/privacy/` |
 | Discord sign-in app, Google consent screen, Microsoft branding | `https://docs.zero-technologies.co.uk/sign-in/terms/` | `https://docs.zero-technologies.co.uk/sign-in/privacy/` |
+| Zero-Technologies Cloud (Nextcloud): link from the login page and footer | `https://docs.zero-technologies.co.uk/cloud/terms/` | `https://docs.zero-technologies.co.uk/cloud/privacy/` |
 | Databasus Google OAuth app (Drive storage, Google sign-in) | `https://docs.zero-technologies.co.uk/databasus/terms/` | `https://docs.zero-technologies.co.uk/databasus/privacy/` |
 
 Google also needs a home page (`https://docs.zero-technologies.co.uk/sign-in/`, or `/databasus/` for the Databasus app) and the authorised domain `zero-technologies.co.uk`.

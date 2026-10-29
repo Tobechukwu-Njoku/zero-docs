@@ -10,5 +10,6 @@ Terms and privacy policies for services run by Zero-Technologies.
 | Service | What it does | Policies |
 |---|---|---|
 | [Zero-Technologies Sign-in](/sign-in/) | Lets you create an account and sign in to Zero-Technologies services, with a password or with Discord, Google, Microsoft or Patreon | [Terms](/sign-in/terms/) &middot; [Privacy](/sign-in/privacy/) |
+| [Zero-Technologies Cloud](/cloud/) | Private file storage, calendars, contacts, office documents and chat, for family, friends and Patreon members | [Terms](/cloud/terms/) &middot; [Privacy](/cloud/privacy/) |
 | [Victor Fries](/victor-fries/) | A Discord bot that sends you notifications from Silo | [Terms](/victor-fries/terms/) &middot; [Privacy](/victor-fries/privacy/) |
 | [Databasus](/databasus/) | Internal database backup service (administrator only), with optional Google Drive storage | [Terms](/databasus/terms/) &middot; [Privacy](/databasus/privacy/) |
